@@ -1,2 +1,9 @@
-# Contruindo-Crud-Completo-Com-NodeJS-e-PrismaORM
-Explore o encantador universo do CRUD com Node.js, Prisma ORM e TypeScript! Desfrute da elegância e eficiência desta base sólida para operações de dados. Transforme seu desenvolvimento web em uma jornada apaixonante e robusta. Bem-vindo ao futuro do CRUD!
+# CRUD com Node.js, Prisma ORM e TypeScript 🚀
+
+Bem-vindo ao CRUD encantador que combina o poder do Node.js, a eficiência do Prisma ORM e a segurança do TypeScript. Este repositório oferece uma base sólida para operações de CRUD em um ambiente moderno de desenvolvimento web.
+
+## Configuração ⚙️
+
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
