@@ -6,7 +6,7 @@ Bem-vindo ao CRUD encantador que combina o poder do Node.js, a eficiência do Pr
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/itamarpambo751/NodeJS-E-PrismaORM.git
 
 ## Funcionalidades ✨
 - **CRUD Poderoso**: Execute operações de criação, leitura, atualização e exclusão de dados de forma eficiente.
